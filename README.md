@@ -12,6 +12,14 @@ property of any third parties.
 Running locally
 ---
 
+On Windows
+```
+$ git clone https://github.com/NathanielWroblewski/outrun.git
+$ cd outrun
+$ python -m http.server 8080
+Navigate your browser to http://localhost:8080 to play
+```
+
 On a mac, clone the repo, and run a server:
 
 ```
